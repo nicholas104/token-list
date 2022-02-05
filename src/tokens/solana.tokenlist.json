@@ -94911,6 +94911,7 @@
       "symbol": "CWC",
       "name": "Crypto Wealth Capital",
       "decimals": 0,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/nicholas104/assets/main/CWC.png",
       "tags": [
         "social-token"
