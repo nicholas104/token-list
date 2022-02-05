@@ -94910,7 +94910,6 @@
       "address": "F6JRkf6XaiVtN16HiVY9hdHWngziddotTUQBzLvPmVNp",
       "symbol": "CWC",
       "name": "Crypto Wealth Capital",
-      "decimals": 0,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/nicholas104/assets/main/CWC.png",
       "tags": [
@@ -99767,6 +99766,17 @@
         "social-token"
       ]
     }
+	},
+    {
+      "chainId": 101,
+      "address": "F6JRkf6XaiVtN16HiVY9hdHWngziddotTUQBzLvPmVNp",
+      "symbol": "CWC",
+      "name": "Crypto Wealth Capital",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/nicholas104/assets/main/CWC.png",
+      "tags": [
+        "social-token"
+      ]
   ],
   "version": {
     "major": 0,
